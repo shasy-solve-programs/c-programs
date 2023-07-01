@@ -4,9 +4,9 @@ int main()
 {
     int d;
 
-    printf("**************************************\n");
-    printf("WELCOME TO 'SHASY SOLVE PROGRAMS'\n");
-    printf("**************************************\n\n\n");
+    printf("   **************************************\n");
+    printf("      WELCOME TO 'SHASY SOLVE PROGRAMS'\n");
+    printf("   **************************************\n\n\n");
     printf("This Program Is To Find 'The Distance Between Two Points'\n");
     printf("To find The Distance Between Two Points,\n\n");
     while (1 == 1)

@@ -1,1 +1,1 @@
-# c-programs
+# c-math-programs
